@@ -124,6 +124,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 at_alsv_pro/.idea/SearchImage.iml
 at_alsv_pro/.idea/misc.xml
 at_alsv_pro/.idea/workspace.xml
