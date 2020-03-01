@@ -69,6 +69,7 @@ def assignment_4():
         if result >100:
             break
 
+
 def assignment_5(n=10000):
     """求10000以内的质数"""
     result = []
