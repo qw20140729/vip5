@@ -1,3 +1,5 @@
+# -*- encoding:utf-8 -*-
+from datetime import datetime
 # 求斐波那契数列 1 1 2 3 5 8 13 ……
 def day2_ex1():
     alist = [1,1]
@@ -63,8 +65,41 @@ def day2_ex4(filename):
         for i in re:
             nf.write(str(i)+'\t')
 
+def getPersonInfo(filename):
+    perdict = dict()
+    f = open(filename,'r',encoding='UTF-8')
+    for line in f:
+        re = line.strip().split('|')
+        perdict[re[0]] = re
+    f.close()
+    return perdict
+def day2_ex4():
+    """
+    任务1-找出所有L开头的人名
+    任务2-按照年龄进行排序
+    任务3-找出所有女性用户的信息
+    """
+    filename = 'PersonInfo.txt'
+    person = getPersonInfo(filename)
+    print(person)
+    # 找出所有L开头的人名
+    for per in person.keys():
+        if per.startswith('L'):
+            print("以L开头的人：",per)
+    # 按照年龄进行排序
+    perlist = []
+    for per in person.keys():
+        age = datetime.now().year - int(person[per][3][:4])
+        perlist.append(age)
+    print(perlist)
+    # 找出所有女性用户的信息
+    for per in person.keys():
+        if person[per][2]=='女':
+            print("性别为女的人员：",per)
+
+
 if __name__ == '__main__':
     # getPrimeNumber()
     filename = 'input2.txt'
     # day2_ex4(filename)
-    day2_ex1()
+    day2_ex4()
