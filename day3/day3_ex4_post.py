@@ -1,16 +1,20 @@
 
 import requests,json
 
-# urlstr = 'http://httpbin.org/post'
-#
-# payload = {'qq群名':'selenium+jmeter+loadrunner','qq群号':'106014970'}
-#
+urlstr = 'http://httpbin.org/post'
+
+payload = {'qq群名':'selenium+jmeter+loadrunner','qq群号':'106014970'}
+
 # payload = json.dumps(payload)
-#
-# r = requests.post(url=urlstr,data=payload)
-#
-# print(r.text)
-# print(r.json())
+
+r = requests.post(url=urlstr,json=payload)
+
+print(type(r.text))
+print(type(r.json()))
+# jsonret = r.json()
+# redict = json.loads(ret)
+# print(redict)
+print(r.status_code)
 
 # urlstr = 'https://www.wanandroid.com/user/login'
 #
@@ -23,17 +27,17 @@ import requests,json
 # print(r.text)
 # print(r.headers)
 
-urlstr = 'https://www.wanandroid.com/user/login'
-payload = {'username':'qyanls','password':'123456'}
-
-s = requests.session()
-r = s.post(url=urlstr,data=payload)
-r2 = s.get("https://www.wanandroid.com/lg/todo/list/0")
-
-print(r2.text)
-# print(r2.status_code)
-print('- '*20)
-print(r.text)
-
+# urlstr = 'https://www.wanandroid.com/user/login'
+# payload = {'username':'qyanls','password':'123456'}
+#
+# s = requests.session()
+# r = s.post(url=urlstr,data=payload)
+# r2 = s.get("https://www.wanandroid.com/lg/todo/list/0")
+#
+# print(r2.text)
+# # print(r2.status_code)
+# print('- '*20)
+# print(r.text)
+# print(r.url)
 
 

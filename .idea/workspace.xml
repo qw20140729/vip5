@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1d63e805-e339-407a-ac02-9ca425a7f50e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/day3_ex3_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/day3_ex3_get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/day3_ex4_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/day3_ex4_post.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +16,11 @@
     <SUITE FILE_PATH="coverage/vip5$day3_ex5.coverage" NAME="day3_ex5 Coverage Results" MODIFIED="1584374196529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/vip5$day2_ex.coverage" NAME="day2_ex Coverage Results" MODIFIED="1583575373839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vip5$day_ex3_get.coverage" NAME="day_ex3_get Coverage Results" MODIFIED="1584179110548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/vip5$Day3_Assignment.coverage" NAME="Day3_Assignment Coverage Results" MODIFIED="1584374880061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/vip5$Day3_Assignment.coverage" NAME="Day3_Assignment Coverage Results" MODIFIED="1584461020263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/vip5$import_ex.coverage" NAME="import_ex Coverage Results" MODIFIED="1583577660609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/vip5$day2_ex1.coverage" NAME="day2_ex1 Coverage Results" MODIFIED="1584168825351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/vip5$day3_ex4_post.coverage" NAME="day3_ex4_post Coverage Results" MODIFIED="1584183240789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/vip5$day3_ex4_post.coverage" NAME="day3_ex4_post Coverage Results" MODIFIED="1584627321325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/vip5$day3_ex3_get.coverage" NAME="day3_ex3_get Coverage Results" MODIFIED="1584626725221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/vip5$Day2_Assignment.coverage" NAME="Day2_Assignment Coverage Results" MODIFIED="1584028627202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/vip5$day2_ex2.coverage" NAME="day2_ex2 Coverage Results" MODIFIED="1584172776473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
   </component>
@@ -38,35 +41,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3/day3_ex3_get.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/day3_ex4_post.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3/day3_ex5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="210">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day3/day3_ex4_post.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day3/Day3_Assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="434">
+              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3/day3_ex1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,9 +147,10 @@
         <option value="$PROJECT_DIR$/day3/day2_ex1.py" />
         <option value="$PROJECT_DIR$/day3/day2_ex2.py" />
         <option value="$PROJECT_DIR$/day3/day_ex3_get.py" />
-        <option value="$PROJECT_DIR$/day3/day3_ex4_post.py" />
         <option value="$PROJECT_DIR$/day3/day3_ex5.py" />
         <option value="$PROJECT_DIR$/day3/Day3_Assignment.py" />
+        <option value="$PROJECT_DIR$/day3/day3_ex3_get.py" />
+        <option value="$PROJECT_DIR$/day3/day3_ex4_post.py" />
       </list>
     </option>
   </component>
@@ -162,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,18 +177,12 @@
             <path>
               <item name="vip5" type="b2602c69:ProjectViewProjectNode" />
               <item name="vip5" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vip5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vip5" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day3_Assignment">
+  <component name="RunManager" selected="Python.day3_ex4_post">
     <configuration name="Day3_Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vip5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day2_ex2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day3_ex3_get" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="vip5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +243,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\code\vip5\day3\day3_ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day3/day3_ex3_get.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day3_ex4_post" />
+        <item itemvalue="Python.day3_ex3_get" />
         <item itemvalue="Python.Day3_Assignment" />
         <item itemvalue="Python.day3_ex5" />
-        <item itemvalue="Python.day3_ex4_post" />
         <item itemvalue="Python.day_ex3_get" />
-        <item itemvalue="Python.day2_ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -345,6 +344,8 @@
       <workItem from="1584025226235" duration="3796000" />
       <workItem from="1584149986906" duration="13632000" />
       <workItem from="1584373434095" duration="1567000" />
+      <workItem from="1584455126508" duration="5724000" />
+      <workItem from="1584626063323" duration="1862000" />
     </task>
     <task id="LOCAL-00001" summary="XS">
       <created>1582973915074</created>
@@ -388,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584374911515</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第一次复习完成作业">
+      <created>1584461032227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584461032228</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22739000" />
+    <option name="totallyTimeSpent" value="30325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,13 +413,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49726775" visible="true" weight="0.15355521" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49726775" visible="true" weight="0.1580938" />
       <window_info id="Structure" order="1" sideWeight="0.5027322" side_tool="true" weight="0.15128593" />
       <window_info id="Favorites" order="2" sideWeight="0.5027322" side_tool="true" weight="0.15128593" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44353518" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.44026187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,7 +428,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286385" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3927987" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286385" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.22913256" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -485,6 +494,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day3/day3_ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day2/PersonInfo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -520,16 +536,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3/day3_ex4_post.py">
+    <entry file="file://$PROJECT_DIR$/day3/Day3_Assignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        <state relative-caret-position="434">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day3/day3_ex1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
+        <state relative-caret-position="82">
           <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
@@ -543,22 +559,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day3/day3_ex3_get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="210">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3/day3_ex5.py">
+    <entry file="file://$PROJECT_DIR$/day3/day3_ex4_post.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day3/Day3_Assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-175">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
