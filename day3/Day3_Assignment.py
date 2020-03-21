@@ -104,13 +104,23 @@ class Gun(object):
         self.bullet = bullet
 
     def shoot(self):
+        print(self.bullet.name)
         pass
 
     def chargeFull(self):
         pass
 
+class soldier(object):
+    def __init__(self,name):
+        self.name = name
+
+
+
+
 def main_ex4():
-    pass
+    sd = soldier("瑞恩")
+    gun = Gun(sd)
+    gun.shoot()
 
 
 if __name__ == '__main__':
